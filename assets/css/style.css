@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: black;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .navbar {
@@ -28,4 +29,8 @@ body {
 
 hr {
     color: rgb(0, 195, 255);
+}
+
+.iconos{
+    color: white;
 }
