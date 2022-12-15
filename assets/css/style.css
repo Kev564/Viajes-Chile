@@ -30,4 +30,16 @@ hr{
     color: rgb(0, 195, 255) ;
 }
 
+/* .txt-icon{
+    margin-left: 8%;
+    margin-right: 8%;
+} */
 
+footer{
+    padding: 2% 5%;
+}
+
+.iconos{
+    color: white;
+    padding: 0 3%;
+}
